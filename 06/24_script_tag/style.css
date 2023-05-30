@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+
+.hello {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.white-color {
+    color: white
+}
